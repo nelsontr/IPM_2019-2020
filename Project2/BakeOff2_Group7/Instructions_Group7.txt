@@ -1,0 +1,16 @@
+Grupo 7
+———————
+
+Terão sempre uma seta a apontar para o alvo atual que terá uma cor verde.
+Terão também disponível o próximo alvo que terá uma cor vermelho escuro.
+
+O projeto implementa o Bubble Cursor, ou seja, o tamanho do cursos é alterado dinamicamente de forma a ter sempre algum alvo no seu alcance pelo que não têm de clicar mesmo dentro do mesmo, basta o cursor estar a conter o alvo. 
+Para facilitar o descrito quando tiverem o alvo no alcance do cursor ele mudará para uma cor verde.
+
+De forma a reduzir a confusão em relação ao alvo ter sido pressionado ou não, o projeto implementa ainda um sistema sonoro. Cada vez que clicarem num alvo vão ouvir um beep indicando que o trial terminou e iniciou-se o próximo.
+
+Por vezes o próximo alvo será na mesma posição que o alvo atual causando portanto o não aparecimento do alvo de cor vermelho escuro. Quando tal acontecer conseguem logo saber que terão de clicar na mesma posição no trial seguinte.
+
+Lembrem-se sempre de seguir a seta que se encontra no ecrã.
+
+Bom BakeOff!
